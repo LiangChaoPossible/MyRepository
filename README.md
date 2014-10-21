@@ -1,0 +1,3 @@
+MyRepository
+============
+Just study git
